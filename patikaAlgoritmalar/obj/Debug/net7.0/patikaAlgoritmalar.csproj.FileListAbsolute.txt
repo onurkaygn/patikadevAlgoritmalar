@@ -1,0 +1,14 @@
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\bin\Debug\net7.0\patikaAlgoritmalar.exe
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\bin\Debug\net7.0\patikaAlgoritmalar.deps.json
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\bin\Debug\net7.0\patikaAlgoritmalar.runtimeconfig.json
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\bin\Debug\net7.0\patikaAlgoritmalar.dll
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\bin\Debug\net7.0\patikaAlgoritmalar.pdb
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\patikaAlgoritmalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\patikaAlgoritmalar.AssemblyInfoInputs.cache
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\patikaAlgoritmalar.AssemblyInfo.cs
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\patikaAlgoritmalar.csproj.CoreCompileInputs.cache
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\patikaAlgoritmalar.dll
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\refint\patikaAlgoritmalar.dll
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\patikaAlgoritmalar.pdb
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\patikaAlgoritmalar.genruntimeconfig.cache
+C:\Users\onuralpkaygin\Desktop\patikaAlgoritmalar\patikaAlgoritmalar\obj\Debug\net7.0\ref\patikaAlgoritmalar.dll
